@@ -6,19 +6,20 @@ body {
     align-items: center;
     height: 100vh;
 }
-
-.class {
+.card {
     width: 250px;
     padding: 20px;
     background-color: #f4f4f4;
     border-radius: 10px;
     border: 2px solid #ddd;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
-    text-align: center;
+    text-align: left;
     box-sizing: border-box;
-
+    
 }
 
-.class h2 {
+.card h2 {
     margin-bottom: 10px;
 }
+
+
